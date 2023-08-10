@@ -1,7 +1,7 @@
 {
   "name": "movie-directory",
   "version": "0.1.0",
-  "homepage": "https://JDawwgy.github.io/React_Movie_Directory",
+  "homepage": "https://JDawwgy.github.io/React_Movie_Directory_App",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
